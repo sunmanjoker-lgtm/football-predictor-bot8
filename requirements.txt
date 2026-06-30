@@ -1,6 +1,1 @@
-numpy
-pandas
 requests
-scikit-learn
-xgboost
-joblib
